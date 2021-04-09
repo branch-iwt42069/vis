@@ -1,0 +1,44 @@
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\bin\Debug\2.exe.config
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\bin\Debug\2.exe
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\bin\Debug\2.pdb
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\_2.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\_2.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\2.exe
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\2.pdb
+D:\personal\учеба\4 семестр\Визуалка\2\2\2\obj\Debug\_2.Form2.resources
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\bin\Debug\2.exe.config
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\bin\Debug\2.exe
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\bin\Debug\2.pdb
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\_2.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\_2.Form2.resources
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\_2.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\2.exe
+D:\personal\учеба\4 семестр\Визуалка\2-3\2-3\2\obj\Debug\2.pdb
+D:\Games\Vizualnoe\2-3\2\bin\Debug\2.exe.config
+D:\Games\Vizualnoe\2-3\2\bin\Debug\2.exe
+D:\Games\Vizualnoe\2-3\2\bin\Debug\2.pdb
+D:\Games\Vizualnoe\2-3\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\Games\Vizualnoe\2-3\2\obj\Debug\_2.Form1.resources
+D:\Games\Vizualnoe\2-3\2\obj\Debug\_2.Form2.resources
+D:\Games\Vizualnoe\2-3\2\obj\Debug\_2.Properties.Resources.resources
+D:\Games\Vizualnoe\2-3\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\Games\Vizualnoe\2-3\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Games\Vizualnoe\2-3\2\obj\Debug\2.exe
+D:\Games\Vizualnoe\2-3\2\obj\Debug\2.pdb
+D:\Games\Ebatny\2-3\2\bin\Debug\2.exe.config
+D:\Games\Ebatny\2-3\2\bin\Debug\2.exe
+D:\Games\Ebatny\2-3\2\bin\Debug\2.pdb
+D:\Games\Ebatny\2-3\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\Games\Ebatny\2-3\2\obj\Debug\_2.Form1.resources
+D:\Games\Ebatny\2-3\2\obj\Debug\_2.Form2.resources
+D:\Games\Ebatny\2-3\2\obj\Debug\_2.Properties.Resources.resources
+D:\Games\Ebatny\2-3\2\obj\Debug\2.csproj.GenerateResource.cache
+D:\Games\Ebatny\2-3\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Games\Ebatny\2-3\2\obj\Debug\2.exe
+D:\Games\Ebatny\2-3\2\obj\Debug\2.pdb

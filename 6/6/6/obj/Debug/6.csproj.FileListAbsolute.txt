@@ -1,0 +1,20 @@
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\bin\Debug\6.exe.config
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\bin\Debug\6.exe
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\bin\Debug\6.pdb
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\6.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\_6.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\_6.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\6.exe
+D:\personal\учеба\4 семестр\Визуалка\6\6\6\obj\Debug\6.pdb
+D:\Games\VZ\6\6\6\bin\Debug\6.exe.config
+D:\Games\VZ\6\6\6\bin\Debug\6.exe
+D:\Games\VZ\6\6\6\bin\Debug\6.pdb
+D:\Games\VZ\6\6\6\obj\Debug\6.csprojAssemblyReference.cache
+D:\Games\VZ\6\6\6\obj\Debug\_6.Form1.resources
+D:\Games\VZ\6\6\6\obj\Debug\_6.Properties.Resources.resources
+D:\Games\VZ\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+D:\Games\VZ\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+D:\Games\VZ\6\6\6\obj\Debug\6.exe
+D:\Games\VZ\6\6\6\obj\Debug\6.pdb

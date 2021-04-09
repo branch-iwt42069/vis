@@ -1,0 +1,53 @@
+D:\personal\учеба\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\personal\учеба\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe
+D:\personal\учеба\Визуалка\1\lab1\lab1\bin\Debug\lab1.pdb
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.exe
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.pdb
+D:\personal\учеба\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form2.resources
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe.config
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.pdb
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form1.resources
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form2.resources
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.exe
+E:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.pdb
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.exe
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.pdb
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.pdb
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form2.resources
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.Cache
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.exe
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\bin\Debug\lab1.pdb
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Form2.resources
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.exe
+D:\personal\учеба\4 семестр\Визуалка\1\lab1\lab1\obj\Debug\lab1.pdb
+D:\Games\Ebatny\lab1\lab1\bin\Debug\lab1.exe.config
+D:\Games\Ebatny\lab1\lab1\bin\Debug\lab1.exe
+D:\Games\Ebatny\lab1\lab1\bin\Debug\lab1.pdb
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.Form2.resources
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.exe
+D:\Games\Ebatny\lab1\lab1\obj\Debug\lab1.pdb

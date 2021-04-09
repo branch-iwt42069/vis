@@ -1,0 +1,33 @@
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\bin\x86\Debug\5-2002.mdb
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\bin\x86\Debug\5.exe.config
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\bin\x86\Debug\5.exe
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\bin\x86\Debug\5.pdb
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\5.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\_5.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\_5.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\5.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\5.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\5.exe
+D:\personal\учеба\4 семестр\Визуалка\5\5\5\obj\x86\Debug\5.pdb
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\bin\x86\Debug\5-2002.mdb
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\bin\x86\Debug\5.exe.config
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\bin\x86\Debug\5.exe
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\bin\x86\Debug\5.pdb
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\5.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\_5.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\_5.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\5.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\5.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\5.exe
+D:\personal\учеба\4 семестр\Визуалка\БД1\БД1\5\obj\x86\Debug\5.pdb
+D:\Games\VZ\БД1\БД1\5\bin\x86\Debug\5-2002.mdb
+D:\Games\VZ\БД1\БД1\5\bin\x86\Debug\5.exe.config
+D:\Games\VZ\БД1\БД1\5\bin\x86\Debug\5.exe
+D:\Games\VZ\БД1\БД1\5\bin\x86\Debug\5.pdb
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\5.csprojAssemblyReference.cache
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\_5.Form1.resources
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\_5.Properties.Resources.resources
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\5.csproj.GenerateResource.cache
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\5.csproj.CoreCompileInputs.cache
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\5.exe
+D:\Games\VZ\БД1\БД1\5\obj\x86\Debug\5.pdb

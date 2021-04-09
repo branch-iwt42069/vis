@@ -1,0 +1,63 @@
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\personal\учеба\4 семестр\Визуалка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\personal\учеба\4 семестр\Визуалка\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Games\Ebatny\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Games\Ebatny\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Games\Ebatny\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Games\Ebatny\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Games\VZ\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Games\VZ\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Games\VZ\0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Games\VZ\0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
